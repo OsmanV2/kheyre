@@ -1,0 +1,6 @@
+{
+  "name": "Kheyre Fit",
+  "description": "A Somali-focused health, fitness, and nutrition dashboard featuring personalized macro calculation, habit tracking, meal planning, and an AI Fitness Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
